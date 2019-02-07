@@ -33,3 +33,16 @@ ul.professional-links a:hover {
 ul span.degree-type {
     font-size: 22px;
 }
+
+/* Link Styles */
+a {
+    text-decoration: none !important;
+}
+
+a.bootstrap {
+    color: #7c47c8;
+}
+
+a.fontawesome {
+    color: #228be6;
+}
